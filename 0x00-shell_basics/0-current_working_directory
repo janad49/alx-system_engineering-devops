@@ -1,4 +1,4 @@
 #!/bin/sh
 
 working_dir=$(pwd)
-ehco $working_dir
+echo $working_dir
